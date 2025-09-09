@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://example.com/</loc></url>
+  <url><loc>https://example.com/temp-mail</loc></url>
+  <url><loc>https://example.com/user-agent</loc></url>
+  <url><loc>https://example.com/ip-check</loc></url>
+  <url><loc>https://example.com/shortener</loc></url>
+  <url><loc>https://example.com/email-validator</loc></url>
+  <url><loc>https://example.com/privacy</loc></url>
+  <url><loc>https://example.com/tos</loc></url>
+  <url><loc>https://example.com/contact</loc></url>
+</urlset>

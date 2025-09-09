@@ -1,0 +1,1 @@
+(function(){'use strict';const g=document.createElement('script');g.async=true;g.src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-xxxxxxxxxxxxxxxx';g.crossOrigin='anonymous';document.head.appendChild(g);window.adsbygoogle=window.adsbygoogle||[];window.requestIdleCallback?.(()=>window.adsbygoogle.push({}));})();
